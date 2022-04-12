@@ -1,0 +1,8 @@
+#kepeck{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    border: 1px black;
+}
+div img{
+    height: 200px;
+}
